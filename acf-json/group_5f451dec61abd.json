@@ -1,0 +1,69 @@
+{
+    "key": "group_5f451dec61abd",
+    "title": "Main page options",
+    "fields": [
+        {
+            "key": "field_5f69e79202576",
+            "label": "Choose a article website",
+            "name": "article_ws",
+            "type": "multisite_select",
+            "instructions": "",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "multiple": 0
+        },
+        {
+            "key": "field_5f451dffa21a4",
+            "label": "Posts from next blogs",
+            "name": "posts_from_next_blogs",
+            "type": "multisite_select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "multiple": 1
+        },
+        {
+            "key": "field_5f4634c06c9df",
+            "label": "Blogs for sidebar",
+            "name": "blogs_for_sidebar",
+            "type": "multisite_select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "multiple": 1
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "acf-options"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "modified": 1604998820
+}

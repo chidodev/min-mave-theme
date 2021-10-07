@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.642" height="23.8" viewBox="0 0 22.642 23.8">
+  <g id="calendar" transform="translate(-2.1 -1.1)">
+    <g id="Сгруппировать_12" data-name="Сгруппировать 12" transform="translate(3 2)">
+      <path id="Контур_7" data-name="Контур 7" d="M3,11.263V6.632A2.316,2.316,0,0,1,5.316,4.316H7.632M3,11.263V21.684A2.316,2.316,0,0,0,5.316,24H21.526a2.316,2.316,0,0,0,2.316-2.316V11.263M3,11.263H23.842m0,0V6.632a2.316,2.316,0,0,0-2.316-2.316h-.579m-13.316,0V2m0,2.316V6.632m9.263-2.316V2m0,2.316V6.632m0-2.316H11.684" transform="translate(-3 -2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+    </g>
+  </g>
+</svg>

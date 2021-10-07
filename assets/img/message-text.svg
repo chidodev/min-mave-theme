@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11.062" height="11.011" viewBox="0 0 11.062 11.011">
+  <g id="message-text" transform="translate(0.5 0.5)">
+    <g id="Group_212" data-name="Group 212">
+      <path id="Path_92" data-name="Path 92" d="M7,12h5.59" transform="translate(-4.764 -6.969)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_93" data-name="Path 93" d="M7,8h3.354" transform="translate(-4.764 -5.205)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_94" data-name="Path 94" d="M3,12.665V4.118A1.118,1.118,0,0,1,4.118,3h7.826a1.118,1.118,0,0,1,1.118,1.118v5.59a1.118,1.118,0,0,1-1.118,1.118H5.773a1.118,1.118,0,0,0-.872.419L3.6,12.874a.335.335,0,0,1-.6-.209Z" transform="translate(-3 -3)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

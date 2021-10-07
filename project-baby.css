@@ -1,0 +1,122 @@
+.accordion {
+    overflow: auto;
+}
+
+.accordion__title {
+    padding: 0 1em;
+    background: #956ebe;
+    border-top: 0 solid #eee;
+    color: #fff;
+    float: left;
+    line-height: 3;
+    height: 3em;
+    cursor: pointer;
+    margin-right: .25em;
+    font-weight: 600;
+}
+
+.accordion__title.active {
+    border-top-color: #956ebe;
+}
+
+.accordion__title:hover, .accordion__title.active {
+    background: #624482;
+    color: #fff;
+    border-top: 3px solid;
+}
+
+.accordion__title:hover, .accordion__title.active {
+    background: #624482;
+    color: #fff;
+    border-top: 3px solid;
+}
+
+.accordion__content {
+    float: right;
+    width: 100%;
+    margin: 3em 0 30px -100%;
+    padding: 6px 0;
+    background: #624482;
+}
+
+.project-calendar {
+    font-size: .8em;
+    font-weight: 800;
+    padding: 0;
+    position: relative;
+    background-color: #f9f6f1;
+}
+
+.project-calendar .antal-row .day {
+    width: 12.5%;
+}
+
+.project-calendar .day {
+    display: inline-block;
+    cursor: pointer;
+    width: 12.3%;
+    padding: 0;
+    font-size: 12px;
+    max-height: 47px;
+    vertical-align: top;
+    border-top: 1px solid rgba(0,0,0,.12);
+    border-left: 1px solid rgba(0,0,0,.12);
+    text-align: center;
+}
+
+.project-calendar__head-row .day {
+    color: #ffffff;
+}
+
+.antal-row .day {
+    border-top: 0 solid rgba(0,0,0,.12)!important;
+    border-left: 0 solid!important;
+}
+
+.uge-left {
+    padding: 17px 0 16px;
+    background-color: #624482;
+    color: #fff;
+}
+
+.blank-space {
+    height: 30px;
+    padding: 0;
+}
+
+.project-calendar__tabs {
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    background: var(--alt-text-color);
+    padding: 0 20px;
+}
+
+.project-calendar__tabs  .tab-item,
+.tabs-container-mobile__selected {
+    min-height: 50px;
+    position: relative;
+    font-weight: 600;
+    font-size: var(--text-16);
+    line-height: 3.125;
+    color: #ffffff;
+}
+
+.project-calendar__tabs  .tab-item:not(:last-child) {
+    margin-right: 40px;
+}
+
+.project-calendar__tabs  .tab-item.active:after,
+.tabs-container-mobile__selected:after {
+    content: '';
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    height: 2px;
+    background: #ffffff;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+}
+
+.project-calendar__head-row {
+    background: var(--alt-text-color);
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.246" height="24.225" viewBox="0 0 24.246 24.225">
+  <g id="share_icon" data-name="share icon" transform="translate(-1725.02 -1002.816)">
+    <g id="Сгруппировать_189" data-name="Сгруппировать 189">
+      <g id="Прямоугольник_249" data-name="Прямоугольник 249" transform="translate(1725.021 1007.042)" fill="none" stroke="#fff" stroke-width="2.2">
+        <rect width="20" height="20" rx="6" stroke="none"/>
+        <rect x="1.1" y="1.1" width="17.8" height="17.8" rx="4.9" fill="none"/>
+      </g>
+      <rect id="Прямоугольник_250" data-name="Прямоугольник 250" width="11" height="11" transform="translate(1736.021 1016.042) rotate(-90)" fill="#e861a0"/>
+      <circle id="Эллипс_50" data-name="Эллипс 50" cx="1.1" cy="1.1" r="1.1" transform="translate(1735.021 1007.042)" fill="#fff"/>
+      <circle id="Эллипс_51" data-name="Эллипс 51" cx="1.1" cy="1.1" r="1.1" transform="translate(1742.82 1015.042)" fill="#fff"/>
+    </g>
+    <g id="arrow">
+      <path id="Контур_86" data-name="Контур 86" d="M1737,1016.848l12.476-12.476" transform="translate(-1.766)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2.2"/>
+      <path id="Контур_87" data-name="Контур 87" d="M1742.2,1004.372h8.282v8.434" transform="translate(-2.53)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2"/>
+    </g>
+  </g>
+</svg>
